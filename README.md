@@ -18,4 +18,7 @@
    <br/>
    <br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurvanl&theme=github-dark-blue&hide_border=false">
+   <br/>
+   <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvanl&layout=compact&theme=github_dark&card_width=445px">
 </div>
