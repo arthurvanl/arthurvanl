@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./IMG_8127.jpg" />
+  <img src="./IMG_8127.jpg" width="250px" />
 </div>
 
 <h3 align="center">
