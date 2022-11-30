@@ -6,7 +6,7 @@
   Hi, my name is Arthur van Leeuwen
 </h3>
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="https://raw.githubusercontent.com/arthurvanl/arthurvanl/master/contributions.svg#gh-dark-mode-only"></a>
 
 <h3 align="center">
     📊 Stats
