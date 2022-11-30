@@ -6,6 +6,8 @@
   Hi, my name is Arthur van Leeuwen
 </h3>
 
+<a href=#><img src="contributions.svg"></a>
+
 <h3 align="center">
     📊 Stats
 </h3>
